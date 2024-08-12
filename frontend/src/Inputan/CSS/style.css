@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding : 0;
+}
+
+.Container{
+    width : 90%;
+    margin : 20px auto;
+    background-color : #FFEED4;
+    padding : 10px
+}
+
+
+
+.Inputan1{
+    display : flex;
+    justify-content : space-around;
+}
+
+.Inputan1 input{
+    padding : 2px;
+    padding-left : 10px;
+    width : 70%
+}
+
+.Inputan1 button{
+    background-color : #06B52C;
+    padding: 10px 50px;
+    color : white;
+}
+
+.Inputan1 button:hover{
+    background-color : #107B28;
+    cursor : pointer;
+}
+
+.ReadData{
+    padding : 5px;
+    width : 95%;
+    margin : 0 auto;
+}
+
+.SelectAll{
+    margin:5px 0;
+}
+
+.SelectAll span{
+    margin-left : 5px;
+}
+
+.GetData{
+    background-color : #D2E1FF;
+    display : flex;
+    justify-content : space-between;
+    padding: 10px;
+}
+
+.IsiData{
+    display:flex;
+}
+
+.IsiData p{
+    margin-left : 10px;
+}
+
+.EH{
+    width : 30%;
+    display : flex;
+    justify-content : space-around;
+}
+
+.EH button {
+    padding : 5px 20px;
+    border : none;
+}
+
+.b1{
+    background-color : #D8D8D8;
+}
